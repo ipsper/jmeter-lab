@@ -4,6 +4,10 @@
 [jmeter]( https://jmeter.apache.org/)
 
 [jmeter install ]( https://jmeter.apache.org/)
+[jmeter demo ] (https://medium.com/@fatihmcicek/performance-testing-jmeter-00-92d497f5172f)
+[jmeter best practices ] (https://jmeter.apache.org/usermanual/best-practices.html)
+[jmeter macos-release-notes ] (https://developer.apple.com/documentation/macos-release-notes/appkit-release-notes-for-macos-14)
+
 
 # Install
 
