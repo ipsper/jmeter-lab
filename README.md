@@ -1,11 +1,11 @@
 # liten setup en run lab för jmeter
 
-[jmeter] ( https://jmeter.apache.org/ )
-[jmeter_install ] ( https://jmeter.apache.org/ )
-[jmeter demo ] ( https://medium.com/@fatihmcicek/performance-testing-jmeter-00-92d497f5172f )
-[jmeter best practices ] ( https://jmeter.apache.org/usermanual/best-practices.html )
-[jmeter macos-release-notes ] ( https://developer.apple.com/documentation/macos-release-notes/appkit-release-notes-for-macos-14 )
-[jmeter for-performance-and-load-testing ] ( https://www.geeksforgeeks.org/how-to-use-jmeter-for-performance-and-load-testing/ )
+[jmeter ](https://jmeter.apache.org/)
+[jmeter_install ](https://jmeter.apache.org/)
+[jmeter demo ](https://medium.com/@fatihmcicek/performance-testing-jmeter-00-92d497f5172f)
+[jmeter best practices ](https://jmeter.apache.org/usermanual/best-practices.html)
+[jmeter macos-release-notes ](https://developer.apple.com/documentation/macos-release-notes/appkit-release-notes-for-macos-14)
+[jmeter for-performance-and-load-testing ](https://www.geeksforgeeks.org/how-to-use-jmeter-for-performance-and-load-testing/)
 
 # Install
 
