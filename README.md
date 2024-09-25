@@ -17,7 +17,18 @@ java --version
 
 ```
 
-## macOS java
+return is Installed or
+ubuntu
+sudo apt install default-jre # version 2:1.17-75, or
+sudo apt install openjdk-17-jre-headless # version 17.0.12+7-1ubuntu2~24.04
+sudo apt install openjdk-21-jre-headless # version 21.0.4+7-1ubuntu2~24.04
+sudo apt install openjdk-11-jre-headless # version 11.0.24+8-1ubuntu3~24.04.1
+sudo apt install openjdk-8-jre-headless # version 8u422-b05-1~24.04
+sudo apt install openjdk-19-jre-headless # version 19.0.2+7-4
+sudo apt install openjdk-20-jre-headless # version 20.0.2+9-1
+sudo apt install openjdk-22-jre-headless # version 22~22ea-1
+
+## macOS install java
 
 ```
 brew install openjdk
@@ -39,15 +50,50 @@ echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
 For compilers to find openjdk you may need to set:
 export CPPFLAGS="-I/opt/homebrew/opt/openjdk/include"
 
-## linux java
+## ubuntu install java
+
+```
+sudo apt install default-jre
 
 ```
 
+## ubuntu install jmeter
+
+[jmeter install](https://www.geeksforgeeks.org/how-to-install-apache-jmeter-on-linux/)
+
+check if exist first
+
+```
+[ $(jmeter --version | grep -c 'The Apache Software Foundation') -eq 1 ] && echo "Installed"
 ```
 
-## macOS jmeter
+1
+to install
 
-[jmeter install mac ](https://tejaksha-k.medium.com/a-step-by-step-guide-how-to-install-apache-jmeter-on-macos-6a9eb8bf3463)
+```
+wget https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.6.3.tgz
+
+tar zxvf apache-jmeter-5.6.3.tgz
+
+rm apache-jmeter-5.6.3.tgz
+
+cd apache-jmeter-5.6.3/bin/
+
+./jmeter -v
+
+TEST=$(pwd)
+sudo ln -s $TEST/jmeter /usr/bin/jmeter
+jmeter --version
+
+[ $(jmeter --version | grep -c 'The Apache Software Foundation') -eq 1 ] && echo "Installed"
+
+```
+
+##
+
+## macOS install jmeter
+
+[jmeter install](https://tejaksha-k.medium.com/a-step-by-step-guide-how-to-install-apache-jmeter-on-macos-6a9eb8bf3463)
 
 ```
 brew install jmeter
@@ -56,7 +102,7 @@ brew install jmeter
 ## verify installation of jmeter
 
 ```
-jmeter -v
+[ $(jmeter -v | grep -c 'The Apache Software Foundation') -eq 1 ] && echo "Installed"
 ```
 
 WARNING: package sun.awt.X11 not in java.desktop
@@ -188,3 +234,20 @@ Copyright (c) 1999-2024 The Apache Software Foundation
 
 allt hamnar i att att macens / är skrivskyddat :-(
 testar senare
+
+# start using jmeter
+
+[jmeter for-performance-and-load-testing ](https://www.geeksforgeeks.org/how-to-use-jmeter-for-performance-and-load-testing/)
+
+1-10 Gui
+
+1. Starta JMeter
+2. Skapa en testplan, Test Plan
+3. Lägg till en trådgrupp, Tread Group
+4. Lägg till Sampler, HTTP request
+5. Lägg till lyssnare, Listener, View Results Tree
+6. Konfigurera ytterligare element
+7. Konfigurera laddningsscenarier
+8. Spara din testplan
+9. Kör testet
+10. Analysera resultat
