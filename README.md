@@ -239,7 +239,7 @@ testar senare
 
 [jmeter for-performance-and-load-testing ](https://www.geeksforgeeks.org/how-to-use-jmeter-for-performance-and-load-testing/)
 
-1-10 Gui
+## Gui
 
 1. Starta JMeter
 2. Skapa en testplan, Test Plan
@@ -251,3 +251,35 @@ testar senare
 8. Spara din testplan
 9. Kör testet
 10. Analysera resultat
+
+## CLI
+
+[jmeter cli lazydog ](https://www.baeldung.com/java-jmeter-command-line)
+
+```
+jmeter -n -t Summary-Report.jmx -l Summary-Report.jtl
+jmeter -n -t  VRT_IPS_Sale_support_lab1.jmx -l VRT_IPS_Sale_support_lab1.jtl
+```
+
+return
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary + 1 in 00:00:00 = 7.5/s Avg: 49 Min: 49 Max: 49 Err: 0 (0.00%) Active: 1 Started: 1 Finished: 0
+summary = 1 in 00:00:00 = 7.4/s Avg: 49 Min: 49 Max: 49 Err: 0 (0.00%)
+Tidying up ... @ 2024 Sep 27 11:52:02 CEST (1727430722760)
+... end of run
+
+adding som tread group and run
+Creating summariser <summary>
+Created the tree successfully using VRT_IPS_Sale_support_lab1.jmx
+Starting standalone test @ 2024 Sep 27 11:56:49 CEST (1727431009977)
+Waiting for possible Shutdown/StopTestNow/HeapDump/ThreadDump message on port 4445
+summary = 8 in 00:00:08 = 1.0/s Avg: 41 Min: 35 Max: 54 Err: 0 (0.00%)
+Tidying up ... @ 2024 Sep 27 11:56:57 CEST (1727431017960)
+... end of run
+
+## view VRT_IPS_Sale_support_lab1.jtl
+
+more VRT_IPS_Sale_support_lab1.jtl
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,L
+atency,IdleTime,Connect
+1727430722707,49,HR_IPS_Sale_support_lab1,200,OK,TG_Sale_support_lab1 1-1,text,true,,576158,116,1,1,http://127.0.0.1:4000/,45,0,11

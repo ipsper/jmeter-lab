@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1727431450819,174,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,170,0,132
+1727431450995,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431451023,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431451053,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431451085,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431451118,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431451148,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431451178,45,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,45,0,0
+1727431451224,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431451255,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431451765,59,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,59,0,29
+1727431451825,33,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,33,0,0
+1727431451859,48,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,48,0,0
+1727431451908,105,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,105,0,0
+1727431452014,40,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,40,0,0
+1727431452055,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431452083,40,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,40,0,0
+1727431452123,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431452155,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431452187,45,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,45,0,0
+1727431452765,60,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,60,0,30
+1727431452826,24,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,24,0,0
+1727431452851,46,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,45,0,0
+1727431452897,105,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,105,0,0
+1727431453002,69,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,69,0,0
+1727431453072,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431453103,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431453133,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431453161,46,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,45,0,0
+1727431453207,46,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,46,0,0
+1727431453764,48,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,48,0,22
+1727431453812,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431453842,26,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,26,0,0
+1727431453869,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431453898,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431453927,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431453957,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431453983,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431454013,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431454042,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431454763,67,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,67,0,31
+1727431454831,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431454858,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431454889,22,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,22,0,0
+1727431454912,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431454938,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431454968,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431454997,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431455023,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431455053,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431455763,59,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,59,0,32
+1727431455823,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431455853,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431455883,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431455911,26,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,26,0,0
+1727431455938,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431455970,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431455998,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431456031,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431456058,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431456765,58,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,58,0,31
+1727431456823,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431456855,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431456883,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431456913,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431456944,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431456973,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431457003,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431457032,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431457062,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431457763,56,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,56,0,27
+1727431457819,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431457848,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431457879,44,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,44,0,0
+1727431457923,44,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,44,0,0
+1727431457968,43,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,43,0,0
+1727431458012,26,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,26,0,0
+1727431458039,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431458069,34,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,34,0,0
+1727431458103,35,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,35,0,0
+1727431458762,60,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,60,0,32
+1727431458823,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431458852,24,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,24,0,0
+1727431458877,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431458907,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431458933,24,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,24,0,0
+1727431458958,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431458987,35,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,35,0,0
+1727431459023,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431459052,24,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,24,0,0
+1727431459764,43,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,43,0,22
+1727431459807,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431459837,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431459868,34,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,34,0,0
+1727431459902,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431459932,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431459958,33,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,33,0,0
+1727431459992,33,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,33,0,0
+1727431460026,26,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,26,0,0
+1727431460053,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : 40[[[4]]]
+
+****** comparison: 40[[[3]]]
+
+/",154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431694264,117,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,114,0,80
+1727431694389,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,26,0,0
+1727431694416,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431694442,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431694473,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431694501,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431694534,35,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,35,0,0
+1727431694570,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431694597,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431694625,39,HTTP Request lab2,404,Not Found,Thread Group lab2 1-1,text,true,,154,115,1,1,http://peneh.se:8080/,39,0,0
+1727431695217,59,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,59,0,31
+1727431695276,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431695306,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431695336,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431695366,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431695396,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431695427,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431695456,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431695486,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431695516,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-2,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431696216,61,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,60,0,25
+1727431696277,43,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,43,0,0
+1727431696321,36,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,36,0,0
+1727431696358,35,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,35,0,0
+1727431696393,37,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,37,0,0
+1727431696431,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431696462,35,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,35,0,0
+1727431696497,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431696527,33,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,33,0,0
+1727431696561,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-3,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431697216,65,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,65,0,37
+1727431697281,33,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,33,0,0
+1727431697315,33,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,33,0,0
+1727431697349,26,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,26,0,0
+1727431697375,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431697407,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431697436,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431697466,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431697496,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431697521,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-4,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431698216,55,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,55,0,28
+1727431698272,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431698301,39,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,39,0,0
+1727431698340,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431698371,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431698402,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431698431,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431698461,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431698491,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431698521,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-5,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431699215,55,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,55,0,28
+1727431699270,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431699300,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431699331,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431699360,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431699391,36,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,36,0,0
+1727431699428,23,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,23,0,0
+1727431699451,36,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,35,0,0
+1727431699487,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431699515,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-6,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431700214,57,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,57,0,30
+1727431700272,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431700301,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431700332,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431700360,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431700393,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431700420,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431700449,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431700481,31,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,31,0,0
+1727431700512,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-7,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431701214,65,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,65,0,37
+1727431701280,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431701310,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431701341,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431701370,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431701400,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431701429,32,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,32,0,0
+1727431701461,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431701490,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431701520,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-8,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431702215,65,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,65,0,36
+1727431702280,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431702310,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431702341,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431702370,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431702401,28,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,28,0,0
+1727431702430,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431702460,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431702489,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431702519,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-9,text,true,,154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431703213,56,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,56,0,29
+1727431703269,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431703299,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431703330,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431703360,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
+1727431703390,29,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,29,0,0
+1727431703420,25,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,25,0,0
+1727431703445,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431703472,27,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,27,0,0
+1727431703499,30,HTTP Request lab2,404,Not Found,Thread Group lab2 1-10,text,true,,154,115,1,1,http://peneh.se:8080/,30,0,0
